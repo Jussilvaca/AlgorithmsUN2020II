@@ -1,0 +1,5 @@
+100% del curso.
+
+Es un curso en el que se emplea como lenguaje de programación python, en él explican cómo son los procesos para generar y gestionar programas de computador.
+Iniciando con formas de abordar un problema, y los pasos medios entre el concepto y el producto final de software, también explican patrones y conceptos que son importantes seguir a la hora de programar y hace mucho énfasis en promover las soluciones propias de cada persona.
+En este curso el código hecho se va utilizando en aplicaciones prácticas, toma como ejemplo el mundo del poker y los juegos para explicar todos los conceptos del curso.
