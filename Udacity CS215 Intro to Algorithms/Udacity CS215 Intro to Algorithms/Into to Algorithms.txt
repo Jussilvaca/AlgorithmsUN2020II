@@ -1,0 +1,5 @@
+100% del curso.
+
+El curso hace una introducción al concepto de algoritmos, como al diseño y análisis de los mismos.
+El curso está orientado al lenguaje de programación python y explican conceptos básicos de los algoritmos, como formas de abarcar los problemas, métodos como el "divide y conquista", exactitud, d
+todo orientado a una aplicación práctica, sobre todo usando ejemplos de las redes sociales.
